@@ -77,7 +77,7 @@ us-pullback-radar-skill/
 
 | 微信（加我） | AI 学习交流圈（微信群） | X (Twitter) |
 |---|---|---|
-| <img src="assets/wechat-qr.png" alt="Zack 的个人微信二维码" width="180"> | <img src="assets/wechat-group-qr.jpg" alt="AI 学习交流圈微信群二维码" width="180"> | [@kaiz_amm](https://x.com/kaiz_amm) |
+| <img src="assets/wechat-qr.png" alt="Zack 的个人微信二维码" width="180"> | <img src="assets/wechat-group-qr.jpg" alt="AI 学习交流圈微信群二维码" width="180"> | [@zack6116](https://x.com/zack6116) |
 
 - 微信号：`zk_0123456789`
 - 群内常聊：AI 编程、独立开发、AI agent 工作流
